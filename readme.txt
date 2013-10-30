@@ -1,4 +1,4 @@
-=== Facebook Like Box ===
+=== WPS Google Analystics ===
 Contributors: vinoj.cardoza
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vinoj%2ecardoza%40gmail%2ecom&currency_code=GBP&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: google, analytics, google analytics
