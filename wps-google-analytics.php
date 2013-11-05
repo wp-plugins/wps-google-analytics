@@ -29,7 +29,7 @@ function put_ga_code()
 		{
 			print "_gaq.push(['_setDomainName', '".$sub_domain_url."']);";
 			if($allow_multiple_domain == 'yes')
-				print "_gaq.push(['_setAllowLinker', true])";
+				print "_gaq.push(['_setAllowLinker', true]);";
 		}		
 	}
 	print "_gaq.push(['_trackPageview']);";
