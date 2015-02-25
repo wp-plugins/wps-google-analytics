@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cawpsgoogleanalytics\n"
+"POT-Creation-Date: 2013-10-24 12:20-0000\n"
+"PO-Revision-Date: 2013-10-24 12:22-0000\n"
+"Last-Translator: Vinoj Cardoza <vinoj.cardoza@gmail.com>\n"
+"Language-Team: Vinoj Cardoza <vinoj.cardoza@gmail.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wps-google-analytics.php:51 wps-google-analytics.php:94
+msgid "WPS Google Analytics"
+msgstr "WPS Google Analytics"
+
+#: wps-google-analytics.php:52
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: wps-google-analytics.php:82
+msgid "Options saved."
+msgstr "Les options enregistrées."
+
+#: wps-google-analytics.php:102
+msgid "Settings"
+msgstr "Cadre"
+
+#: wps-google-analytics.php:107
+msgid "Google Analytics Tracking ID"
+msgstr "Google Analytics Tracking ID"
+
+#: wps-google-analytics.php:115
+msgid "Is this site installed in sub domain?"
+msgstr "Ce site est installé en sous-domaine?"
+
+#: wps-google-analytics.php:119 wps-google-analytics.php:139
+msgid "Yes"
+msgstr "Oui"
+
+#: wps-google-analytics.php:120 wps-google-analytics.php:140
+msgid "No"
+msgstr "Non"
+
+#: wps-google-analytics.php:126
+msgid "Sub domain URL?"
+msgstr "Sous URL de domaine?"
+
+#: wps-google-analytics.php:134
+msgid "Allow multiple top-level domains?"
+msgstr "Autoriser plusieurs domaines de premier niveau?"
+
+#: wps-google-analytics.php:135
+msgid "Examples: www.yoursite.com -and- www.yoursite.co.uk"
+msgstr "Exemples: www.yoursite.com-et-www.yoursite.co.uk"
+
+#: wps-google-analytics.php:145
+msgid "Save"
+msgstr "Sauvegarder"
