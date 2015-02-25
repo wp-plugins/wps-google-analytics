@@ -3,7 +3,7 @@
 Plugin Name: WPS Google Analytics
 Plugin URI: http://www.vinojcardoza.com/blog/wps-google-analytics/
 Description: WPS Google Analytics allows you to easilly add your Google Analytics code through out the whole site.  
-Version: 1.0
+Version: 1.1
 Author: Vinoj Cardoza
 Author URI: http://www.vinojcardoza.com
 License: GPL2

@@ -3,7 +3,7 @@ Contributors: vinoj.cardoza
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vinoj%2ecardoza%40gmail%2ecom&currency_code=GBP&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: google, analytics, google analytics, analysis
 Requires at least: 3.0
-Tested up to: 3.7
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -45,3 +45,8 @@ Uninstalling is as simple as deactivating the plugin.
 == Screenshots ==
 
 1. screenshot-1.gif
+
+== Change Log ==
+
+= Version 1.1 =
+* Tested compatibility with Wordpress 4.1.1.
